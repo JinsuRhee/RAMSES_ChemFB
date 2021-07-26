@@ -1,0 +1,33 @@
+##-----
+## General Settings
+##-----
+num_thread	= 20L
+imf	= 'Salpeter'
+##-----
+## Path Settings
+##-----
+#dir_raw		= '/storage6/NewHorizon/'
+#dir_catalog	= '/storage5/NewHorizon/VELOCIraptor/'
+dir_var		= '/storage6/jinsu/var/Work_RamsesChemFB/'
+#dir_lib		= '/storage5/jinsu/idl_lib/IDLlib/jinsu/vr_callftn/'
+#
+##-----
+## Procedure
+##-----
+
+#p_data		= 2L	;;
+
+
+##-----
+## UTILITIES
+##-----
+#	*) get unit_l at a given snapshot
+#		= get_unit_l(settings, snapnum)
+##-----
+## Drawing Figure
+##-----
+
+##-----
+## Tests
+##-----
+#test1	= 2L		;; 
